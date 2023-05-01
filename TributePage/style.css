@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(235, 180, 230);
+    min-height: 100vh;
+    border: 10px solid #080707;
+    ;
+
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.first_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.first_section h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.first_section h4{
+    text-align: end;
+    font-size: 35px;
+}
+
+.image_container,img{
+   
+    width: 400px;
+    height: 350px;
+
+}
+
+.second_section{
+    margin-top: 50px;
+}
+.second_section h2{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.second_section p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.third_section{
+    margin-top: 50px;
+}
+
+.third_section h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.third_section p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+.fourth_section{
+    margin-top: 50px;
+}
+
+.fourth_section h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.fourth_section p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+.fifth_section {
+    margin-top: 50px;
+
+}
+
+.fifth_section h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.fifth_section h4{
+    margin-top: 20px;
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.fifth_section p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+.sixth_section{
+    margin-top: 50px;
+
+}
+
+.sixth_section h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.sixth_section p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+
+}
+
+.Awards{
+    margin-top: 50px;
+
+}
+
+.Awards h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.Awards p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+.Death{
+    margin-top: 50px;
+
+}
+
+.Death h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.Death p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+
+.last_section{
+    margin-top: 50px;
+}
+
+.image_container2 img{
+   
+    width: 900px;
+    height: 500px;
+    
+
+}
+
+.last_section p{
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+
+
+
+
+
+footer{
+    margin: 20px 0;
+
+}
+
+footer p{
+    text-align: end;
+    font-size: 20px;
+
+}
